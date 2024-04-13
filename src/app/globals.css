@@ -26,8 +26,25 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.skil_btn{
+  @apply
+   bg-black mx-3 my-5 border-2 border-pink-700 rounded-full size-28 sm:size-28 font-extrabold text-lg  hover:animate-pulse animate-bounce
 }
+.ed_div{
+  @apply
+  my-7 
+}
+.btdiv{
+  @apply
+  size-64 
+}
+.bt2div{
+  @apply
+  size-64 
+}
+.bt3div{
+  @apply
+  size-64 
+}
+
+
