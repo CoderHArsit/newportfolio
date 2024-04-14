@@ -35,7 +35,7 @@ const TAB_DATA = [
             <div className=" bt3div text-left my-auto mx-4">
             <div className="justify-center ed_div bt3_div">
               {/* btech */}
-              <h1 className="text-xl font-sans font-extrabold">Bachelor's of Technology</h1>
+              <h1 className="text-xl font-sans font-extrabold">Bachelor&apos;s of Technology</h1>
               <h5 className="text-sm font-extralight">Galgotias College of Engineering and Technology.(2021-2025)</h5>
               <ul className="text-sm font-extrabold ">
                 <li>Pursuing B.tech in Computer science with specialization in data science.</li>
@@ -48,7 +48,7 @@ const TAB_DATA = [
             <div className="  ed_div bt3div justify-center ">
               {/* btech */}
               <h1 className="text-xl font-sans font-extrabold">XIIth Board Examination</h1>
-              <h5 className="text-sm font-extralight">St.Xavier's College(2020-2021)</h5>
+              <h5 className="text-sm font-extralight">St.Xavier&apos;s College(2020-2021)</h5>
               <ul className="text-sm font-extrabold ">
                 <li>Passed 12th examination from ISC school with Science stream.</li>
                 <li>Aggregate-89%</li>
@@ -58,7 +58,7 @@ const TAB_DATA = [
             <div className=" ed_div bt3div">
               {/* btech */}
               <h1 className="text-xl font-sans font-extrabold">Xth Board Examination</h1>
-              <h5 className="text-sm font-extralight">St.Xavier's College(2018-2019)</h5>
+              <h5 className="text-sm font-extralight">St.Xavier&apos;s College(2018-2019)</h5>
               <ul className="text-sm font-extrabold ">
                 <li>Passed 10th examination from ISCE school with Science stream.</li>
                 <li>Aggregate-93%</li>

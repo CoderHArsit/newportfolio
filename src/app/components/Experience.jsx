@@ -28,7 +28,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Galgotias College Of Engineering and technology.</li>
-        <li>St.Xavier's College</li>
+        <li>St.Xavier&apos;s College</li>
       </ul>
     ),
   },
