@@ -76,6 +76,15 @@ const projectsData = [
   gitUrl: "",
   previewUrl: "",
 }
+,{
+  id: 9,
+  title: "ToDo App",
+  description: "A todo app based on nextjs",
+  image: "/images/projects/bg3.png",
+  tag: ["All", "web"],
+  gitUrl: "https://github.com/CoderHArsit/todoapp",
+  previewUrl: "https://todoapp-peach-kappa.vercel.app/profile",
+}
 ];
 
 const ProjectsSection = () => {

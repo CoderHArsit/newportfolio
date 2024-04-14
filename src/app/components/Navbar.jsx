@@ -62,7 +62,7 @@ const Navbar = () => {
           md:p-0 md:flex-row md:space-x-8 mt-0 
           md:hover:border-white">
             {navLinks.map((link, index) => (
-              <li key={index} className="border rounded-full  border-red-200 px-2">
+              <li key={index} className="border rounded-full font-bold  border-red-200 px-2">
                 <NavLink href={link.path} title={link.title} />
               </li>
             ))}
